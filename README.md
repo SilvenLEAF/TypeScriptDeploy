@@ -1,2 +1,2 @@
-# PaintAPP
-My version of PaintAPP created with using Canvas API
+# TypeScriptDeploy
+Learning how to deploy TypeScript fullstack app!
